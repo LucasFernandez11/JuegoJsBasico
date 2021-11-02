@@ -1,0 +1,10 @@
+#jugador {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    transition: all 1s ease;
+}
